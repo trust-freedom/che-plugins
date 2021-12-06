@@ -1,0 +1,20 @@
+apiVersion: v2
+publisher: Pivotal
+name: vscode-boot-dev-pack
+version: 0.1.0
+type: VS Code extension
+displayName:
+title:
+description:
+icon: https://open-vsx.org/api/Pivotal/vscode-boot-dev-pack/0.1.0/file/STS4-256x256.png
+repository:
+category:
+spec:
+  containers:
+    - image:
+      memoryLimit:
+      memoryRequest:
+      cpuLimit:
+      cpuRequest:
+  extensions:
+          - https://open-vsx.org/api/Pivotal/vscode-boot-dev-pack/0.1.0/file/Pivotal.vscode-boot-dev-pack-0.1.0.vsix
