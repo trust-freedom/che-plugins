@@ -10,4 +10,4 @@ icon: https://open-vsx.org/api/Pivotal/vscode-boot-dev-pack/0.1.0/file/STS4-256x
 category: Language
 spec:
   extensions:
-          - https://open-vsx.org/api/Pivotal/vscode-boot-dev-pack/0.1.0/file/Pivotal.vscode-boot-dev-pack-0.1.0.vsix
+    - https://open-vsx.org/api/Pivotal/vscode-boot-dev-pack/0.1.0/file/Pivotal.vscode-boot-dev-pack-0.1.0.vsix
